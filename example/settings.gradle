@@ -1,0 +1,2 @@
+rootProject.name='Test_docker'
+include ':app'
